@@ -2,7 +2,9 @@
 .DS_Store
 !private
 private/*
-!private/.gitkeep
+!private/dev/.gitkeep
+!private/prod/.gitkeep
+!private/wsdl/.gitkeep
 vendor/
 !logs
 logs/*
