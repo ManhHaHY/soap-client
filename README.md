@@ -58,4 +58,4 @@ All requests to the VnPay API, as well as the responses and any errors that it r
 
 ### Completely tested ###
 
-* [tests/index.php](https://github.com/vntopup/soap-client/tests/index.php)
+* [tests/index.php](https://github.com/vntopup/soap-client/blob/master/tests/index.php)
