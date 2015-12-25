@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+!private
+private/*
+!private/.gitkeep
+vendor/
+!logs
+logs/*
+!logs/.gitkeep
